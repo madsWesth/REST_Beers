@@ -1,0 +1,11 @@
+{
+  "name": "REST_Beers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/madsWesth/REST_Beers.git",
+  "author": "madsWesth <72575386+madsWesth@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
